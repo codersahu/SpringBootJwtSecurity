@@ -1,1 +1,1 @@
-Spring boot security only with jwt.
+Spring boot security demo with jwt.
